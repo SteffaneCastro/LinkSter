@@ -24,28 +24,33 @@ strong {
 
   .nome {
     font-family: "Montserrat", sans-serif;
-    font-size: 4.srem;
-    color: #0313f1;
+    font-size: 3.srem;
+    color: #E45825;
     padding-top: 150px;
     text-align: center;
+
   }
 
 .box-top {
     width: 100vw;
-    height: 35vh;
+    height: 15vh;
     background-color: #F1A503;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
     text-align: center;
   }
-
+/*
 .retangulo {
     width: 24rem;
     height: 34rem;
     background: #1E1E1E;
     border-radius: 30px;
-    text-align: center;
-   }
 
+    top: 50%;
+    left: 50%;
+    margin-right: -29%;
+    transform: translate(-50%, -90%)
+   }
+*/
 main {
     display: flex;
     flex-direction: column;
@@ -56,9 +61,9 @@ main {
 
 .box-link {
     background-color: #876D4A;
-    height: 10vh;
-    width: 80vh;
-    padding: 10px;
+    height: 5vh;
+    width: 45vh;
+    padding: 20px;
     margin: 10px;
     border-radius: 30px;
     color: #1B1A16;
@@ -80,5 +85,17 @@ a {
     border: 1px solid var(--padrao);
     background-color: #E6D5B9;
 }
+
+.circle-image img {
+    height: 15%;
+    width: 15%;
+    border-radius: 50%;
+
+  }
+
+  footer {
+    padding: 30px;
+    color: #F1A503;
+  }
 
 
