@@ -1,0 +1,84 @@
+@import url(https://fonts.google.com/specimen/Montserrat?query=Montserrat);
+
+:root {
+    --padrao:var(--#0d6efd);
+    --corpo: 'Montserrat', sans-serif;
+}
+
+strong {
+    font-weight: bold;
+  }
+
+* {
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+  }
+
+  body {
+    background-color: #1B1A16;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nome {
+    font-family: "Montserrat", sans-serif;
+    font-size: 4.srem;
+    color: #0313f1;
+    padding-top: 150px;
+    text-align: center;
+  }
+
+.box-top {
+    width: 100vw;
+    height: 35vh;
+    background-color: #F1A503;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+.retangulo {
+    width: 24rem;
+    height: 34rem;
+    background: #1E1E1E;
+    border-radius: 30px;
+    text-align: center;
+   }
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-link {
+    background-color: #876D4A;
+    height: 10vh;
+    width: 80vh;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
+    color: #1B1A16;
+    font-family: var(--corpo);
+    text-align: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-decoration: none;
+    color: #1B1A16;
+    font-size: 1.5rem;
+}
+
+.box-link:hover {
+    border: 1px solid var(--padrao);
+    background-color: #E6D5B9;
+}
+
+
