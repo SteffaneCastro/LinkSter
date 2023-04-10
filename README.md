@@ -15,7 +15,7 @@ Projeto pessoal simples para concentrar informações profissionais e de contato
   <img align="center" src="https://user-images.githubusercontent.com/43351342/230732142-a0c02a09-4b03-4484-8153-9a87a972a547.png" width="70">
   <img align="center" src="https://user-images.githubusercontent.com/43351342/230732233-862750e7-d19d-4ee5-99cd-1a9dcc6006ab.png" width="95">
   
-<h3>🚧 In progress </h3>
+<h3>🚧 Em progresso </h3>
 <h5> 🟩 1ª fase: Criação do estrutura em HTML </h5>
 <h5> 🟩 2ª fase: Criação da parte visual com CSS </h5>
 <h5> 🟩 3ª fase: Subir para o GitHub </h5>
